@@ -5,6 +5,7 @@
 - Ejecución del programa
 - Manual de usuario
 - Nuevas funcionalidades
+- Colaboradores
 
 ## DESCARGA
 Aquí se descarga el archivo comprimido con los ficheros necesarios para ejecutar el programa
@@ -279,3 +280,7 @@ Al asignar un conductor nos avisa a través de un telegram
 Al cambiar el estado del envío también nos avisará con un correo  
 
 ![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_PO4/assets/150911084/69e741cf-c957-406f-91f5-8b5e8382d049)
+
+ ## COLABORADORES
+ - Daniel Rosa Izquierdo / Enlace GitHub: https://github.com/DanielRosaIzquierdo
+ - Adrián Marchal Ortega / Enlace GitHub: https://github.com/AdrianMarchal
